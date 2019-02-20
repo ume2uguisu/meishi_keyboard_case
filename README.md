@@ -1,0 +1,2 @@
+# meishi_keyboard_case
+meishi keyboard用のケースをプリント可能な3Dデータですよ
