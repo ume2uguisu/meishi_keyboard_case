@@ -16,3 +16,4 @@ http://biacco42.hatenablog.com/entry/2018/01/21/204749
 
 フレキシブル素材でプリントしたケースは、meishi keyboardの基板がはめ込めるようになっていると思います。
 
+![使用例](https://github.com/ume2uguisu/meishi_keyboard_case/blob/master/sample.JPG)
